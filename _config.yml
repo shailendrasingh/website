@@ -2,10 +2,11 @@ title: Shailendra Singh
 description: Long Form Jekyll theme built with SASS
 
 # url: https://long-haul.netlify.app
-url: https://shailendrasingh.github.io/website
+baseurl: "/website"
+url: "https://shailendrasingh.github.io"
 paginate_path: "blog/page:num/"
 permalink: "pretty"
-remote_theme: "long-haul"
+remote_theme: "brianmaierjr/long-haul"
 
 # Header Option
 # header: large
