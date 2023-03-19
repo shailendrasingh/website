@@ -1,7 +1,8 @@
 title: Long Haul
 description: Long Form Jekyll theme built with SASS
 
-url: https://long-haul.netlify.app
+# url: https://long-haul.netlify.app
+url: https://shailendrasingh.github.io/website/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
