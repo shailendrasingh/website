@@ -5,6 +5,7 @@ description: Long Form Jekyll theme built with SASS
 url: https://shailendrasingh.github.io/website/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+remote_theme: "long-haul"
 
 # Header Option
 # header: large
